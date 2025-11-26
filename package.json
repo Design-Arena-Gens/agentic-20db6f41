@@ -1,0 +1,31 @@
+{
+  "name": "jeshua-david-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next": "^14.2.5",
+    "three": "^0.166.1",
+    "@react-three/fiber": "^8.16.8",
+    "@react-three/drei": "^9.108.3",
+    "framer-motion": "^11.3.19",
+    "lucide-react": "^0.424.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/three": "^0.166.0",
+    "typescript": "^5",
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.38",
+    "autoprefixer": "^10.4.19"
+  }
+}
